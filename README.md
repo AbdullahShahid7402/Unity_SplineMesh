@@ -41,7 +41,7 @@ This fork focuses on:
 2. Click **Add package from Git URL**  
 3. Paste:
    ```text
-   https://github.com/AbdullahShahid7402/Unity_SplineMesh
+   https://github.com/AbdullahShahid7402/Unity_SplineMesh.git
 
 ---
 
