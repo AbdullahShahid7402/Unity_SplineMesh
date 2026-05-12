@@ -12,7 +12,16 @@ namespace SplineMeshTools.Core
 
         [Tooltip("Count must match the number of Splines in the Spline Container")]
         [SerializeField] private int[] meshResolution;
-
+        
+        public int[] GetMeshResolution() 
+        {
+            return meshResolution;
+        }
+        public void SetMeshResolution(int[] meshResolution)
+        {
+            this.meshResolution = meshResolution;
+        }
+        
         public override void GenerateMeshAlongSpline()
         {
             if(CheckForErrors()) return;
