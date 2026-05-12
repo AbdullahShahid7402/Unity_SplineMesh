@@ -1,10 +1,10 @@
 {
-  "name": "com.anandev.splinemesh",
-  "displayName": "Spline Mesh",
-  "version": "1.5.0",
+  "name": "com.abdullahshahidbutt.splinemesh",
+  "displayName": "Spline Mesh(Forked)",
+  "version": "1.5.1",
   "unity": "2021.3",
   "documentationUrl": "https://docs.google.com/document/d/1Ul0xCCkXnXC6aQOrWnYuw3nb1dB4rRg9OA2tuF2eWms/edit?usp=sharing",
-  "description": "A flexible spline-based mesh and collider generation package for Unity.",
+  "description": "A flexible spline-based mesh and collider generation package for Unity. Forked to allow procedural mesh resolutions",
   "keywords": [
     "spline",
     "mesh",
@@ -15,9 +15,8 @@
     "train tracks"
   ],
   "author": {
-    "name": "Anand Satheesan",
-    "email": "anandcdigital@gmail.com",
-    "url": "https://youtube.com/@anandev"
+    "name": "Abdullah Shahid Butt",
+    "email": "abdullahshahid210@gmail.com"
   },
   "dependencies": {
     "com.unity.splines": "2.7.2",
@@ -25,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AnanD3V/SplineMesh.git"
+    "url": "https://github.com/AbdullahShahid7402/Unity_SplineMesh"
   },
   "_fingerprint": "b5f504e483e95aa704fdb1ddd2169dee8a3e5c00",
   "samples": [
