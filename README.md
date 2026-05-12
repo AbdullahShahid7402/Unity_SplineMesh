@@ -1,39 +1,54 @@
 # SplineMesh for Unity 🚀  
-**Create smooth, customizable mesh deformations and animations along splines with ease!**
+**Forked version of [AnanD3V/SplineMesh](https://github.com/AnanD3V/SplineMesh)**  
+Enhanced for improved procedural spline mesh generation and runtime flexibility.
 
-This package provides a powerful toolset for developers to generate spline-based meshes, colliders, and animations, making it perfect for conveyor belts, flexible tracks, procedural structures, and more.
-
-## 📄 Documentation
-Link: [Documentation](https://docs.google.com/document/d/1Ul0xCCkXnXC6aQOrWnYuw3nb1dB4rRg9OA2tuF2eWms/edit?usp=sharing)
-
-## 🌟 Features  
-- 🌀 **SplineMesh**: Generate and deform meshes along a spline.  
-- 🛠️ **Collider Generators**: Create runtime box and capsule colliders for spline meshes.  
-- 🎥 **Texture Animation**: Animate textures seamlessly along splines.  
-- 💡 **Editor Tools**: User-friendly editor scripts for mesh resolution and visualization.
+This fork builds on the original SplineMesh system and introduces improvements focused on **procedural generation workflows**, making it more suitable for dynamic level creation, runtime mesh resolution control, and scalable game systems.
 
 ---
 
-## 🚀 Coming Soon  
-- ⚙️ **ProBuilder Integration**: Convert ProBuilder meshes to SplineMesh effortlessly.  
+## 📄 Documentation  
+Link: [Documentation](https://docs.google.com/document/d/1Ul0xCCkXnXC6aQOrWnYuw3nb1dB4rRg9OA2tuF2eWms/edit?usp=sharing)
 
-Stay tuned for updates!
+---
+
+## 🌟 Features  
+
+- 🌀 **Spline Mesh Generation**: Create and deform meshes along splines efficiently.  
+- ⚙️ **Procedural Mesh Resolution Control**: Dynamic resolution for runtime-generated levels.  
+- 🛠️ **Collider Generation**: Runtime box and capsule colliders along spline paths.  
+- 🎥 **Texture Animation Support**: Smooth texture flow along spline surfaces.  
+- 💡 **Editor Tools**: Enhanced inspector tools for debugging and visualization.
+
+---
+
+## 🚀 Fork Improvements (This Version)
+
+This fork focuses on:
+
+- Better support for procedural level generation systems  
+- Runtime-controlled spline mesh resolution  
+- Cleaner integration for game runtime systems  
+- Improved flexibility for conveyor systems, roads, and dynamic environments  
 
 ---
 
 ## 📦 Installation  
 
-### Option 1: Install via GitHub URL
-(Make sure to have [Git](https://git-scm.com/) installed in your system)
-1. Open Unity's **Package Manager**.  
-2. Click the **Add package from Git URL** button.  
-3. Paste the following URL:  
+### Option 1: Install via GitHub URL  
+(Make sure you have [Git](https://git-scm.com/) installed)
+
+1. Open Unity **Package Manager**  
+2. Click **Add package from Git URL**  
+3. Paste:
    ```text
-   https://github.com/AnanD3V/SplineMesh
-### Option 2: Install via package
-1. Open this alternative link to get the package file
-   ```text
-   https://github.com/AnanD3V/SplineMeshUnity
-2. Download the .zip file
-3. Extract the .zip file
-4. Open the .unitypackage file inside it with Unity open, to import the package directly.
+   https://github.com/AbdullahShahid7402/Unity_SplineMesh
+
+---
+
+## 🙏 Credits  
+
+Original work by:  
+**AnanD3V / SplineMesh**  
+https://github.com/AnanD3V/SplineMesh  
+
+This project is a fork and extension of the original library. All core spline mesh concepts and base architecture originate from the original author.
